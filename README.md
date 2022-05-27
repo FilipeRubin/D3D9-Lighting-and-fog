@@ -12,4 +12,5 @@ Open the project in Visual Studio 2019 and compile. The default settings should 
 
 # Known issues
 - You can look up/down until you flip the camera upside down.
-- There's no conventional way to close the application (don't worry, you can just press ALT+F4 or ALT+TAB and then close).
+- There's no conventional way to close the application (don't worry, you can just press ALT+F4).
+- The mouse keeps locked in the center of the screen even if you minimize the application.
