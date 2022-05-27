@@ -1,5 +1,5 @@
-# D3D-Lighting
- Just a simple project that I've made to test my knowledge in topics like lighting, fog, etc.
+# Lighting and fog test
+Just a simple project that I've made to test my knowledge in topics like lighting, fog, etc.
 
 # How to run and compile
 Open the project in Visual Studio 2019 and compile. The default settings should be enough to run this project.
