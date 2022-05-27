@@ -32,7 +32,7 @@ static RECT s_fontRect = { 50, WINDOW_HEIGHT - 170, 0, 0 };
 
 static IDirect3DTexture9* s_pCrosshairTexture = nullptr;
 static ID3DXSprite* s_pSprite = nullptr;
-static D3DXVECTOR3 s_CrosshairVector = { ((float)WINDOW_WIDTH / 2.0f) - 40.0f, ((float)WINDOW_HEIGHT / 2.0f) - 51.5f, 0.0f };
+static D3DXVECTOR3 s_CrosshairVector = { ((float)WINDOW_WIDTH / 2.0f) - 32.0f, ((float)WINDOW_HEIGHT / 2.0f) - 32.0f, 0.0f };
 
 static TexVertex s_Scenario[]
 {
